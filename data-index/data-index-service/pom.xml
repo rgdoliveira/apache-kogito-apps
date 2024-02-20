@@ -35,11 +35,6 @@
     <module>data-index-service-common</module>
     <module>data-index-service-inmemory</module>
     <module>data-index-service-postgresql</module>
-<<<<<<< 9.99.x-prod
-=======
-    <module>data-index-service-infinispan</module>
-    <module>data-index-service-mongodb</module>
->>>>>>> b6ece5b Removing oracle driver and associated tests (#1971)
   </modules>
 
   <profiles>
